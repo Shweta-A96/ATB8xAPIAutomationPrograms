@@ -1,4 +1,4 @@
-package org.example.samplecheck.RestAssuredBasics.GET;
+package RestAssuredBasicss.GET;
 
 import io.restassured.RestAssured;
 import org.testng.annotations.Test;

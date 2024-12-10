@@ -1,4 +1,4 @@
-package org.example.samplecheck;
+package samplecheck;
 
 import io.restassured.RestAssured;
 

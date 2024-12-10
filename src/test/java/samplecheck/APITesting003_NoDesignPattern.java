@@ -1,4 +1,4 @@
-package org.example.samplecheck;
+package samplecheck;
 
 public class APITesting003_NoDesignPattern {
     public void step1() {
